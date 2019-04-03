@@ -186,4 +186,4 @@ const witch = new Villain({
 
 
 console.log(paladin)
-console.log(witch)
+console.log(witch.weapons)
